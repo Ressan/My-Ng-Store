@@ -1,6 +1,6 @@
 # Angular.io | My Shop
 
-'My Ng store' is tutorial solution developped from [Angular.io - Getting Started](https://angular.io/start#getting-started-with-angular) section.
+'My Ng store' is a tutorial solution developped from [Angular.io - Getting Started](https://angular.io/start#getting-started-with-angular) section.
 
 # angular-5orx64
 
